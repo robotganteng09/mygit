@@ -14,5 +14,5 @@ console.log(buah)
 // objek
 let identitas = {
     user : "Arsya",
-    id
+    id : 9009
 }

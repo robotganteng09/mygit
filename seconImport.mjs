@@ -15,4 +15,4 @@ hallo()
 //  kombinasi nilai export dan import
 import Abel , {artist as beautiful} from "./ImportExport.mjs";
 Abel() // default
-beautiful() // ini named 
+beautiful() // ini named 5
