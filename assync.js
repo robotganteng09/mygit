@@ -1,3 +1,5 @@
+// call back
+
 function ambilDaya(data){
     setTimeout(() => {
         console.log("data telah di ambil");

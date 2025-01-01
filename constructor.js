@@ -41,3 +41,19 @@ class alamat{
 }
 
 const alamatBaru = new alamat()
+
+class king{
+    constructor(nama,jabatan){
+       this.nama = nama
+       this.jabatan = jabatan
+
+       console.log("nama :" + nama)
+       console.log("jabatan :" + jabatan)
+    }
+    persembahkan(){
+        console.log("nama" + this.nama + "jabatan " + this.jabatan)
+    }
+}
+
+const person2 = new king("Sir Arsya","raja")
+console.log(person2)
