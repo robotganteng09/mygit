@@ -6,3 +6,4 @@ function goodNight(){
     console.log("good night")
 }
 sayHello("Aira",goodNight)
+
