@@ -33,7 +33,6 @@ perkalian(90,2)
 pembagian(4,2)
 
 // hanya menampilkan nilai function
-console.log(suhu)
 // menjalan isi function
 suhu(60)
 
